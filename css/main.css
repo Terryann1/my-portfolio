@@ -1,11 +1,18 @@
 #about-me{
     text-align: center;
     font-size: large;
-    font-weight: bold;
-    background-image: url(/images/Terry.jpg);
-    
-    
-    
+    font-weight: bold;}
+.image{
+    background-image: url("/images/Terry.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    display:flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20vh;
+    width: 100%;
 }
 #about-me nav{
     padding: 20px;
@@ -21,18 +28,21 @@
     padding-right: 300px;
     background-color: #add8e6;
 }
-#project>h1{
+#project~h1{
     font-size: 30px;
 }
 #SKills{
-    background-color: #add8e6;
+background-color: #add8e6;
 display: flex;
 justify-content: center;
 align-items: center;
+padding-right: 300px;
+
 
 }
 #contact-details{
 background-color: grey;
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+padding-right: 150px;}
