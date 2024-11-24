@@ -15,5 +15,7 @@ The technology used to come up with this website is Hypertext Markup Language(HT
 * Initialize a git repository: Create a new folder for the project, open the folder and issue the git init command
 * Add files and folders: Add files and folders to the project
 * Stage files and create commits
+### Future Improvements
+The project can be improved in the future by using Jvascript technology which will make the project more dynamic and elaborative.
 
 
