@@ -12,6 +12,13 @@
     text-decoration: blue;
     margin-bottom: 5%;  
 }
+#SKills{
+    background-color: grey;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
 #contact-details{
 background-color: grey;
 display: flex;
