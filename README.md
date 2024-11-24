@@ -17,5 +17,7 @@ The technology used to come up with this website is Hypertext Markup Language(HT
 * Stage files and create commits
 ### Future Improvements
 The project can be improved in the future by using Jvascript technology which will make the project more dynamic and elaborative.
+### Hosting of the website
+This project is hosted through github pages
 
 
