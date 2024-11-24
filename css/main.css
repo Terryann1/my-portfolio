@@ -1,0 +1,19 @@
+.about-me{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    
+    
+    
+}
+.about-me nav{
+    padding: 20px;
+    padding-left: 900px;
+    text-decoration: blue;
+    margin-bottom: 5%;  
+}
+#contact-details{
+background-color: grey;
+display: flex;
+justify-content: center;
+align-items: center;}
