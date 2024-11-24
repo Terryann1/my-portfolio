@@ -1,13 +1,14 @@
+body{
+    background-color: #add8e6;
+    
+}
 #about-me{
     text-align: center;
     font-size: large;
-    font-weight: bold;}
-.image{
-    background-image: url('/images/_AKL5231-4.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center; 
-}
+    font-weight: bold;
+    
+
+    }
 #about-me nav{
     padding: 20px;
     padding-left: 900px;
