@@ -12,8 +12,17 @@
     text-decoration: blue;
     margin-bottom: 5%;  
 }
+#project{
+    text-align: center;
+    font-size:medium;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: #add8e6;
+}
 #SKills{
-    background-color: grey;
+    background-color: #add8e6;
 display: flex;
 justify-content: center;
 align-items: center;
