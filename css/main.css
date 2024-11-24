@@ -3,7 +3,7 @@
     font-size: large;
     font-weight: bold;}
 .image{
-    background-image: url('/images/_AKL5231-4.jpg'));
+    background-image: url('/images/_AKL5231-4.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
